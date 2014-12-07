@@ -1,17 +1,14 @@
-controls robot pws
+controls voertuig pws
 
 w = motor 1 vooruit
 o = motor 2 vooruit
-shift = opschakelen motor 1
-ctrl = terugschakelen motor 1
-' = opschakelen motor 2
-] = terugschakelen motor 2
+1 = opschakelen motor 1
+2 = terugschakelen motor 1
+9 = opschakelen motor 2
+0 = terugschakelen motor 2
 5 = motor 1 en motor 2 koppelen
 6 = motor 1 en motor 2 afkoppelen
-1 = achteruit motor 1 inschakelen
-2 = achteruit motor 1 uitschakelen
-9 = achteruit motor 2 inschakelen
-0 = achteruit motor 2 uitschakelen
-
-let op als je opschakelt of terugschakelt moet je opnieuw op w of o drukken
-anders blijft de snelheid constant!
+3 = achteruit motor 1 inschakelen
+4 = achteruit motor 1 uitschakelen
+7 = achteruit motor 2 inschakelen
+8 = achteruit motor 2 uitschakelen
